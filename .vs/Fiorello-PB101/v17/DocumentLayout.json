@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace Code Academy\\Fiorello-PB101\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|c:\\workspace code academy\\fiorello-pb101\\fiorello-pb101\\viewmodels\\expert\\expertvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|solutionrelative:fiorello-pb101\\viewmodels\\expert\\expertvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|c:\\workspace code academy\\fiorello-pb101\\fiorello-pb101\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|solutionrelative:fiorello-pb101\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|c:\\workspace code academy\\fiorello-pb101\\fiorello-pb101\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|solutionrelative:fiorello-pb101\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|c:\\workspace code academy\\fiorello-pb101\\fiorello-pb101\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|solutionrelative:fiorello-pb101\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|c:\\workspace code academy\\fiorello-pb101\\fiorello-pb101\\services\\expertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|solutionrelative:fiorello-pb101\\services\\expertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|c:\\workspace code academy\\fiorello-pb101\\fiorello-pb101\\services\\interfaces\\iexpertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|solutionrelative:fiorello-pb101\\services\\interfaces\\iexpertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|c:\\workspace code academy\\fiorello-pb101\\fiorello-pb101\\models\\expert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|solutionrelative:fiorello-pb101\\models\\expert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|c:\\workspace code academy\\fiorello-pb101\\fiorello-pb101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|solutionrelative:fiorello-pb101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|c:\\workspace code academy\\fiorello-pb101\\fiorello-pb101\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078B414D-D007-481F-B04E-8CA3F9746A1B}|Fiorello-PB101\\Fiorello-PB101.csproj|solutionrelative:fiorello-pb101\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Fiorello-PB101\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Fiorello-PB101\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:31:38.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpertVM.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\ViewModels\\Expert\\ExpertVM.cs",
+              "RelativeDocumentMoniker": "Fiorello-PB101\\ViewModels\\Expert\\ExpertVM.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\ViewModels\\Expert\\ExpertVM.cs",
+              "RelativeToolTip": "Fiorello-PB101\\ViewModels\\Expert\\ExpertVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:28:29.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Fiorello-PB101\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "Fiorello-PB101\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:28:12.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Program.cs",
+              "RelativeDocumentMoniker": "Fiorello-PB101\\Program.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Program.cs",
+              "RelativeToolTip": "Fiorello-PB101\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:27:46.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpertService.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Services\\ExpertService.cs",
+              "RelativeDocumentMoniker": "Fiorello-PB101\\Services\\ExpertService.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Services\\ExpertService.cs",
+              "RelativeToolTip": "Fiorello-PB101\\Services\\ExpertService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:26:33.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IExpertService.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Services\\Interfaces\\IExpertService.cs",
+              "RelativeDocumentMoniker": "Fiorello-PB101\\Services\\Interfaces\\IExpertService.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Services\\Interfaces\\IExpertService.cs",
+              "RelativeToolTip": "Fiorello-PB101\\Services\\Interfaces\\IExpertService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:25:50.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiorello-PB101\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Fiorello-PB101\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEBAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:20:01.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Expert.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Models\\Expert.cs",
+              "RelativeDocumentMoniker": "Fiorello-PB101\\Models\\Expert.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Models\\Expert.cs",
+              "RelativeToolTip": "Fiorello-PB101\\Models\\Expert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:14:40.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Fiorello-PB101\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Fiorello-PB101\\Fiorello-PB101\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Fiorello-PB101\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwBEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:10:43.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
